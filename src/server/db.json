@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "category": "front-end",
+      "title": "O que faz uma desenvolvedora front-end?",
+      "cover": "https://img.youtube.com/vi/ZY3-MFxVdEw/hqdefault.jpg",
+      "id": "2974"
+    },
+    {
+      "category": "front-end",
+      "title": "Guia de carreira Front-end",
+      "cover": "https://img.youtube.com/vi/fpth65ts3cw/hqdefault.jpg",
+      "id": "2d43"
+    },
+    {
+      "category": "back-end",
+      "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "cover": "https://img.youtube.com/vi/fiPfvylj6rk/hqdefault.jpg",
+      "id": "6c92"
+    },
+    {
+      "category": "back-end",
+      "title": "Kotlin, Micronaut e Back-end com Alberto Sousa | #HipstersPontoTube",
+      "cover": "https://img.youtube.com/vi/PV9FoHvVE8k/hqdefault.jpg",
+      "id": "30ef"
+    },
+    {
+      "category": "back-end",
+      "title": "Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube",
+      "cover": "https://img.youtube.com/vi/xrRy3RI3HE4/hqdefault.jpg",
+      "id": "05f8"
+    },
+    {
+      "category": "back-end",
+      "title": "JavaScript para back-end | Hipsters.Talks",
+      "cover": "https://img.youtube.com/vi/uyRDbGZG92E/hqdefault.jpg",
+      "id": "e640"
+    },
+    {
+      "category": "mobile",
+      "title": "Desenvolvimento Android #HipstersPontoTube",
+      "cover": "https://img.youtube.com/vi/fWscDFHKgw8/hqdefault.jpg",
+      "id": "28a9"
+    },
+    {
+      "category": "mobile",
+      "title": "Carreira em Mobile",
+      "cover": "https://img.youtube.com/vi/WDCe1Yr1Fsk/hqdefault.jpg",
+      "id": "e800"
+    },
+    {
+      "category": "mobile",
+      "title": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller | #HipstersPontoTube",
+      "cover": "https://img.youtube.com/vi/MGIs7DSQ-0A/hqdefault.jpg",
+      "id": "1b3f"
+    },
+    {
+      "category": "mobile",
+      "title": "Jetpack Compose: INTEROPERABILIDADE para sua aplicação Mobile | #AluraMais",
+      "cover": "https://img.youtube.com/vi/N3DOiN0iZIk/hqdefault.jpg",
+      "id": "54b6"
+    },
+    {
+      "id": "af217b51-0388-4db2-9be0-358bf57363a7",
+      "title": "O que é Front End e Back End? Diferenças que Você Precisa Saber",
+      "category": "front-end",
+      "cover": "https://img.youtube.com/vi/LDU4BCSxPp4/hqdefault.jpg"
+    },
+    {
+      "id": "afe4a637-0576-49a3-b704-7b45cc74fd34",
+      "title": "[Imersão Front-End] Carreira Front-end na prática: No Brasil e no exterior",
+      "category": "front-end",
+      "cover": "https://img.youtube.com/vi/iORzNYN7Vtg/hqdefault.jpg"
+    }
+  ]
+}
